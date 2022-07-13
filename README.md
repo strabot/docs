@@ -1,1 +1,1 @@
-# strabot-website
+# Strabot - Docs
