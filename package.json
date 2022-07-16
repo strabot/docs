@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/gabrielrufino/strabot-docs#readme",
   "devDependencies": {
-    "docsify-cli": "^4.4.4"
+    "docsify-cli": "^4.4.4",
+    "rimraf": "^3.0.2"
   }
 }
