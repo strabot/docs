@@ -5,6 +5,7 @@
   "description": "Docs about the Strabot Ecosystem",
   "scripts": {
     "develop": "docsify serve docs",
+    "reinstall": "rimraf node_modules && npm ci",
     "start": "docsify start docs"
   },
   "repository": {
