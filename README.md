@@ -5,4 +5,6 @@
 
 Center of documentations about the **Strabot Ecosystem**: Manager, Bots, CLI, etc.
 
-More in: https://www.strabot.dev
+Feel free to contribute by fixing or increasing our documentation. We are gonna be very grateful for any help we receive.
+
+> More in: https://www.strabot.dev
