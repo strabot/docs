@@ -6,3 +6,4 @@
 * [Manager](https://github.com/gabrielrufino/strabot-manager)
 * [Slack](https://github.com/gabrielrufino/strabot-slack)
 * [Telegram](https://github.com/gabrielrufino/strabot-telegram)
+* [Types](https://github.com/gabrielrufino/strabot-types)
