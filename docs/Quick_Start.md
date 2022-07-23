@@ -24,7 +24,7 @@ npx @strabot/cli create manager --name octogamer-manager
 Then we can get into the folder and execute the manager locally:
 
 ```shell
-cd octomanager
+cd octogamer-manager
 npm run develop
 ```
 
@@ -35,7 +35,8 @@ After this, you can open the manager running by default on `http://localhost:133
 3. Open the **Telegram config** in the other menu
 4. Set the **Active** as **TRUE**
 5. Put the bot token in the **Token** field
-6. Active 
+6. Active
+
 
 
 ## Setting up the Bot
