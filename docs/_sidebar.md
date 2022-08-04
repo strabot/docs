@@ -17,3 +17,7 @@
 
 * [Sponsoring](Sponsoring.md)
 * [Repositories](Repositories.md)
+
+<p style="margin-top: 25px; text-align: center;">
+  <small>Black Tech by <a href="https://github.com/gabrielrufino" target="_blank" rel="noopener noreferrer">Gabriel Rufino</a> 🖤</small>
+</p>
