@@ -2,9 +2,9 @@
 
 # Strabot
 
-> The easiest way to create simple chatbots using Strapi
+> The easiest way to create chatbots using Strapi
 
-* Support for Discord, Slack & Telegram;
+* Support for Telegram and soon for Discord & Slack;
 * Create easily messages, quizzes, surveys;
 * Great dashboard!
 
