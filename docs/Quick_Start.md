@@ -2,16 +2,16 @@
 
 <img align="right" alt="Octocat" width="300px" src="_media/octogamer.png" />
 
-Let's make a quick example of a Telegram bot using strabot. Let me present you our bot and friend called **Octogamer**: A specialist in games. You're gonna need to create a bot on Telegram, that is a pretty easy task using the @Botfather.
+Let's make a quick example of a Telegram bot using strabot. Let me present you our bot and friend called **Octogamer**: A specialist in games. You're gonna need to create a bot on Telegram, that is a pretty easy task using the [@Botfather](https://t.me/botfather).
 
-> If you don't know how to create, you can see the steps here: [Creating a new bot](https://core.telegram.org/bots#creating-a-new-bot)
+> If you don't know how to create a bot, you can see the steps here: [Creating a new bot](https://core.telegram.org/bots#creating-a-new-bot)
 
 Remember to get two important informations after create the bot:
 
 * Token
 * Username
 
-We're gonna need these two soon.
+We're gonna need both soon.
 
 ## Setting up the Manager
 
@@ -28,6 +28,7 @@ When completed, you can open the manager running by default on `http://localhost
 3. Open the **Telegram config** in the content manager menu
 4. Active the bot for telegram
 5. Put the bot token in the **Token** field
+6. Put the bot username in the **Username** field
 6. Active private chats
 7. Save the changes
 8. Open the **Settings** in the left menu
