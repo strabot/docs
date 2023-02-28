@@ -1,7 +1,7 @@
 {
   "name": "@strabot/docs",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Docs about the Strabot Ecosystem",
   "scripts": {
     "develop": "docsify serve docs",
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/gabrielrufino/strabot-docs#readme",
   "devDependencies": {
     "docsify-cli": "^4.4.4",
-    "rimraf": "^4.0.5"
+    "rimraf": "^4.1.2"
   }
 }
