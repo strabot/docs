@@ -8,7 +8,7 @@
 * Create easily messages, quizzes, surveys;
 * Great dashboard!
 
-[GitHub](https://github.com/gabrielrufino/strabot-docs)
+[GitHub](https://github.com/strabot/strabot-docs)
 [Quick Start](Quick_Start)
 
 ![color](#FBFBFB)

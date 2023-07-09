@@ -1,7 +1,7 @@
 {
   "name": "@strabot/docs",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Docs about the Strabot Ecosystem",
   "scripts": {
     "develop": "docsify serve docs",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielrufino/strabot-docs.git"
+    "url": "git+https://github.com/strabot/strabot-docs.git"
   },
   "author": {
     "name": "Gabriel Rufino",
@@ -18,11 +18,11 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gabrielrufino/strabot-docs/issues"
+    "url": "https://github.com/strabot/strabot-docs/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/strabot-docs#readme",
+  "homepage": "https://github.com/strabot/strabot-docs#readme",
   "devDependencies": {
     "docsify-cli": "^4.4.4",
-    "rimraf": "^4.1.2"
+    "rimraf": "^4.4.1"
   }
 }
