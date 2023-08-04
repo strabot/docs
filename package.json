@@ -1,7 +1,7 @@
 {
   "name": "@strabot/docs",
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Docs about the Strabot Ecosystem",
   "scripts": {
     "develop": "docsify serve docs",
