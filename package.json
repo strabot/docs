@@ -4,7 +4,6 @@
   "version": "1.0.4",
   "scripts": {
     "develop": "docsify serve docs",
-    "reinstall": "npx rimraf node_modules && npm ci",
     "start": "docsify start docs"
   },
   "author": {
@@ -14,7 +13,6 @@
   "license": "MIT",
   "homepage": "https://github.com/strabot/docs#readme",
   "devDependencies": {
-    "docsify-cli": "^4.4.4",
-    "rimraf": "^4.4.1"
+    "docsify-cli": "^4.4.4"
   }
 }
