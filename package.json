@@ -2,27 +2,17 @@
   "name": "@strabot/docs",
   "private": true,
   "version": "1.0.4",
-  "description": "Docs about the Strabot Ecosystem",
   "scripts": {
     "develop": "docsify serve docs",
-    "reinstall": "npx rimraf node_modules && npm ci",
     "start": "docsify start docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/strabot/strabot-docs.git"
   },
   "author": {
     "name": "Gabriel Rufino",
     "email": "contato@gabrielrufino.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/strabot/strabot-docs/issues"
-  },
-  "homepage": "https://github.com/strabot/strabot-docs#readme",
+  "homepage": "https://github.com/strabot/docs#readme",
   "devDependencies": {
-    "docsify-cli": "^4.4.4",
-    "rimraf": "^4.4.1"
+    "docsify-cli": "^4.4.4"
   }
 }
