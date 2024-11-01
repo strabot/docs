@@ -10,7 +10,7 @@
     "name": "Gabriel Rufino",
     "email": "contato@gabrielrufino.com"
   },
-  "license": "MIT",
+  "license": "UNLICENSED",
   "homepage": "https://github.com/strabot/docs#readme",
   "devDependencies": {
     "docsify-cli": "^4.4.4"
